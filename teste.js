@@ -1,1 +1,1 @@
-alert('XSS Detected');
+alert(document.cookie);
